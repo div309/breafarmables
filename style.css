@@ -70,6 +70,37 @@ button:hover {
     border-left: 5px solid red;
 }
 
+
+
+.credits {
+    font-size: 14px;
+    margin-top: 10px;
+}
+p {
+    margin: 5px 0;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+header {
+    background: #007bff;
+    color: white;
+    padding: 15px;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
 .rainbow-text {
     font-weight: bold;
     color: transparent;
