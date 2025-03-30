@@ -69,3 +69,62 @@ button:hover {
 .non-farmable {
     border-left: 5px solid red;
 }
+
+
+
+element.style {
+}
+.rainbow-text {
+    font-weight: bold;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    animation: rainbow-fade 14s linear infinite;
+}
+.rainbow-text {
+    font-weight: bold;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    animation: rainbow-fade 14s linear infinite;
+}
+.credits {
+    font-size: 14px;
+    margin-top: 10px;
+}
+header {
+    background: #007bff;
+    color: white;
+    padding: 15px;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+0% {
+    color: red;
+}
+14% {
+    color: orange;
+}
+28% {
+    color: yellow;
+}
+42% {
+    color: green;
+}
+57% {
+    color: blue;
+}
+71% {
+    color: indigo;
+}
+85% {
+    color: violet;
+}
+100% {
+    color: red;
+}
