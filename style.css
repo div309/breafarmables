@@ -49,6 +49,13 @@ button:hover {
     padding: 20px;
 }
 
+#blocks-container2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
 /* Block Styles */
 .block {
     padding: 15px;
